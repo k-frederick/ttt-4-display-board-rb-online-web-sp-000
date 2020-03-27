@@ -8,7 +8,7 @@ puts "-----------"
 puts "   |   |   "
 end
 
-display_board(rows[2])
+
 puts "   | x |   "
 puts "-----------"
 puts "   |   |   "
