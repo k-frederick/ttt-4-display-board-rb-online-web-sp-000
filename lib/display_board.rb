@@ -7,3 +7,10 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
+
+
+puts "   | x |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
