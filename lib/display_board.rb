@@ -9,9 +9,10 @@ puts "   |   |   "
 board - [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 end
 
-
+def display_board(board[1])
 puts "   | x |   "
 puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
+end
