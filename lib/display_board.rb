@@ -2,5 +2,5 @@
 # out the current state.
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def display_board(board)
-  expect(rows[0]) = "   |   |   "
+  row[0] = [" ", " ", " "]
 end
